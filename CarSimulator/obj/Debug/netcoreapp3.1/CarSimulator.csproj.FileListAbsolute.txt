@@ -1,0 +1,14 @@
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.AssemblyReference.cache
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfoInputs.cache
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfo.cs
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.CoreCompileInputs.cache
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.exe
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.deps.json
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.json
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.dev.json
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.dll
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.pdb
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.dll
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.pdb
+D:\Documents\Fourth Year\CPEN 333\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.genruntimeconfig.cache
