@@ -19,8 +19,8 @@ namespace CarSimulator
             while((myTesla.myCarState.position < 402.3) ||
                 (myPrius.myCarState.position < 402.3)) 
             {
-                myTesla.drive(t);
-                myPrius.drive(t);
+                myTesla.Drive(t);
+                myPrius.Drive(t);
                 // print the time and current state
                 Console.WriteLine("time: {0}",t);
                 Console.WriteLine("Tesla State: p:{0}, v:{1}, a:{2}, t:{3}",

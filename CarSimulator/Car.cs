@@ -3,16 +3,21 @@ namespace CarSimulator
 {
     public class Car
     {
-        private double mass;
-        private string model;
-        private double dragArea;
-        private double engineForce;
+        protected double mass;
+        protected string model;
+        protected double dragArea;
+        protected double engineForce;
         public State myCarState;
 
-        private double rho = 1.225;
-        private double x1, fd, nForce;
+        protected double rho = 1.225;
+        protected double x1, fd, nForce;
 
         /// implement constructor and methods
+        
+        public Car()
+        {
+            myCarState = new State();
+        }
         public Car(string mdl, double mas, double eForce, double dArea)
         {
             mass = mas;
@@ -22,7 +27,7 @@ namespace CarSimulator
             myCarState = new State();
         }
 
-        public void drive(double dt)
+        public virtual void Drive(double dt)
         {
             var v = myCarState.velocity;
             var a = myCarState.acceleration;
