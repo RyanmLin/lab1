@@ -9,7 +9,6 @@ namespace CarSimulator
             Car myTesla = new Car("Tesla", 1500, 1000, 0.51);
             Car myPrius = new Car("Prius", 1000, 750, 0.43);
 
-
             // drive for 60 seconds with delta time of 1s
             double dt = 0.1;
             double t = 0;

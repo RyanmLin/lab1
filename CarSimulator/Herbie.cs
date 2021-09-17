@@ -12,7 +12,10 @@ namespace CarSimulator
 		}
 		public Herbie(string model, double mass, double engineForce, double dragArea)
 		{
-
+			this.model = model;
+			this.mass = mass;
+			this.engineForce = engineForce;
+			this.dragArea = dragArea;
 		}
 		public override void Drive(double dt) 
 		{
@@ -25,6 +28,12 @@ namespace CarSimulator
 			x1 = Physics1D.compute_position(x0, v, dt);
 
 			myCarState.set(x1, v, a, dt);
+			Console.WriteLine("{0} State: p:{1}, v:{2}, a:{3}, t:{4}",
+				model,
+				myCarState.position,
+				myCarState.velocity,
+				myCarState.acceleration,
+				myCarState.time);
 		}
 	}
 }

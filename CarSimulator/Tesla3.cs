@@ -12,7 +12,10 @@ namespace CarSimulator
 		}
 		public Tesla3(string model, double mass, double engineForce, double dragArea)
 		{
-
+			this.model = model;
+			this.mass = mass;
+			this.engineForce = engineForce;
+			this.dragArea = dragArea;
 		}
 	}
 }
